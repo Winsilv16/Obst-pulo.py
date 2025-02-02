@@ -1,2 +1,2 @@
-# Obst-pulo.py
+# Obstapulo.py
 Meu joguinho. ツ
